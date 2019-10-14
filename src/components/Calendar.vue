@@ -212,7 +212,7 @@ export default {
         this.details = "";
         this.start = "";
         this.end = "";
-        this.color = "";
+        this.color = "#1976d2";
       } else {
         alert("Name, start, and end are required.");
       }
